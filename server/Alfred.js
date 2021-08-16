@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-function sendMessage(message, botId, chatId){
+function sendMessage(message, botId, chatId) {
   const bot = new TelegramBot(botId, { polling: false });
   
   try {

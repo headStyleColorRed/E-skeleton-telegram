@@ -2,7 +2,6 @@ const express = require("express")
 const app = express();
 const puerto = 9001;
 const Cors = require("cors")
-require('dotenv').config()
 
 // Modules
 const Alfred = require("./Alfred.js")
