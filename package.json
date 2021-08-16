@@ -1,0 +1,19 @@
+{
+  "name": "e-skeleton-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server/app.js",
+    "dev": "NODE_ENV=development nodemon server/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
