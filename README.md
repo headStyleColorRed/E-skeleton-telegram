@@ -60,6 +60,6 @@ replace XXX:YYYY with your bot's id
 
 4. **Find Id**
 Look for "chat":{"id":-zzzzzzzzzz, ...]
-Where-zzzzzzzzzz is your chat id (with the negative sign).
+Where-zzzzzzzzz is your chat id (with the negative sign).
 
 And there we have it!
