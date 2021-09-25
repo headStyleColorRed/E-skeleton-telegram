@@ -28,9 +28,9 @@ He will ask first for your bot's name and then for the bot's username. Fill both
 Done! Congratulations on your new bot. You will find it at 
 t.me/whatever_your_bots_name. You can now add a description, about 
 section and profile picture for your bot, see /help for a list 
-of commands. By the way, when you've finished creating your cool 
+of commands. By the way, when you havve finished creating your cool 
 bot, ping our Bot Support if you want a better username for it. 
-Just make sure the bot is fully operational before you do this.
+Just make sure the bot is fully operational before you do this.'
 
 Use this token to access the HTTP API:
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -38,7 +38,7 @@ This is the token the you want to copy
 5125132423412:JFSLJFDO28FFEHWSDKFHSKHF2983FH-k9M // This is a random token that I made up :p
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Keep your token secure and store it safely, it can be used by anyone to control your bot.
-
+'
 For a description of the Bot API, see this page: https://core.telegram.org/bots/api
 ```
 
